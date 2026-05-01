@@ -1,8 +1,6 @@
 # Spectral-Sparsification-Preserves-Representation-Geometry
 Code for Representation Geometry Preservation with Spectral Sparsification in GNNs
 
-# Spectral Graph Sparsification Preserves Representation Geometry in Graph Neural Networks
-
 This repository contains code for reproducing the experiments in:
 
 **Spectral Graph Sparsification Preserves Representation Geometry in Graph Neural Networks**
@@ -11,3 +9,5 @@ The paper studies whether spectral graph sparsification preserves not only graph
 
 real_final.py contains experiments on Fashion  MNIST, Cora, and Paul 15 datasets
 real_synthetic.py contains experiments on synthetic SBM and geometric graphs.
+
+Copyright Sanjukta Krishnagopal 2026. Please cite appropriately if you use this code.
